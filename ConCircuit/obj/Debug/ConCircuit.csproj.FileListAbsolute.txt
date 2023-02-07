@@ -1,0 +1,12 @@
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\bin\Debug\ConCircuit.exe.config
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\bin\Debug\ConCircuit.exe
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\bin\Debug\ConCircuit.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\bin\Debug\LibInterface.dll
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\bin\Debug\LibInterface.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\obj\Debug\ConCircuit.csprojAssemblyReference.cache
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\obj\Debug\ConCircuit.csproj.CoreCompileInputs.cache
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\obj\Debug\ConCircuit.csproj.CopyComplete
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\obj\Debug\ConCircuit.exe
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\obj\Debug\ConCircuit.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\bin\Debug\LibCircuit.dll
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\ConCircuit\bin\Debug\LibCircuit.pdb

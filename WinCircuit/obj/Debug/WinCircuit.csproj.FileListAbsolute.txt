@@ -1,0 +1,33 @@
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\bin\Debug\WinCircuit.exe.config
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\bin\Debug\WinCircuit.exe
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\bin\Debug\WinCircuit.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\bin\Debug\LibInterface.dll
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\bin\Debug\LibInterface.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\obj\Debug\WinCircuit.csprojAssemblyReference.cache
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\obj\Debug\WinCircuit.Properties.Resources.resources
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\obj\Debug\WinCircuit.WinCircuitForm.resources
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\obj\Debug\WinCircuit.csproj.GenerateResource.cache
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\obj\Debug\WinCircuit.csproj.CoreCompileInputs.cache
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\obj\Debug\WinCircuit.csproj.CopyComplete
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\obj\Debug\WinCircuit.exe
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\obj\Debug\WinCircuit.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\bin\Debug\LibCircuit.dll
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\bin\Debug\LibCircuit.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuit\obj\Debug\WinCircuit.InputForm.resources
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\bin\Debug\WinCircuit.exe.config
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\bin\Debug\WinCircuit.exe
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\bin\Debug\WinCircuit.pdb
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\bin\Debug\LibCircuit.dll
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\bin\Debug\LibInterface.dll
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\bin\Debug\LibCircuit.pdb
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\bin\Debug\LibInterface.pdb
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\obj\Debug\WinCircuit.csproj.AssemblyReference.cache
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\obj\Debug\WinCircuit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\obj\Debug\WinCircuit.InputForm.resources
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\obj\Debug\WinCircuit.Properties.Resources.resources
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\obj\Debug\WinCircuit.WinCircuitForm.resources
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\obj\Debug\WinCircuit.csproj.GenerateResource.cache
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\obj\Debug\WinCircuit.csproj.CoreCompileInputs.cache
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\obj\Debug\WinCircuit.csproj.CopyComplete
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\obj\Debug\WinCircuit.exe
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuit\obj\Debug\WinCircuit.pdb

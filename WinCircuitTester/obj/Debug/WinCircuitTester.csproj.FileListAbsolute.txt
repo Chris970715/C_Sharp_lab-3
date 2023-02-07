@@ -1,0 +1,61 @@
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.exe.config
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.exe
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\bin\Debug\LibInterface.dll
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\bin\Debug\LibInterface.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csprojAssemblyReference.cache
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.CircuitTesterForm.resources
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.Properties.Resources.resources
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.GenerateResource.cache
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.CoreCompileInputs.cache
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.CopyComplete
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.exe
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\bin\Debug\LibCircuit.dll
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\develop\Circuit\WinCircuitTester\bin\Debug\LibCircuit.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.exe.config
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.exe
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\LibCircuit.dll
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\LibInterface.dll
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\LibCircuit.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\LibInterface.pdb
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csprojAssemblyReference.cache
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.CircuitTesterForm.resources
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.Properties.Resources.resources
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.GenerateResource.cache
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.CoreCompileInputs.cache
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.CopyComplete
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.exe
+C:\wayne\Seneca\PRG650 SUMMER 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.exe.config
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\LibCircuit.dll
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\LibInterface.dll
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\LibCircuit.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\bin\Debug\LibInterface.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csprojAssemblyReference.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.CircuitTesterForm.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.Properties.Resources.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.GenerateResource.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.CoreCompileInputs.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.CopyComplete
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\030-Classes, Interfaces, and Factories\110-Circuit\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.pdb
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.exe.config
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.exe
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\bin\Debug\WinCircuitTester.pdb
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\bin\Debug\LibCircuit.dll
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\bin\Debug\LibInterface.dll
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\bin\Debug\LibCircuit.pdb
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\bin\Debug\LibInterface.pdb
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.AssemblyReference.cache
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.CircuitTesterForm.resources
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.Properties.Resources.resources
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.GenerateResource.cache
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.CoreCompileInputs.cache
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.csproj.CopyComplete
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.exe
+C:\Users\Gyubum Kim\Downloads\Circuit2\Circuit\WinCircuitTester\obj\Debug\WinCircuitTester.pdb
